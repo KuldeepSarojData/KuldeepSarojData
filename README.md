@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Kuldeep Saroj 👋
+Data Analyst | MIS Executive | Operations & Supply Chain Analytics
 
-<!--
-**KuldeepSarojData/KuldeepSarojData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I turn warehouse and logistics data into accurate, decision-ready reports.
+Currently working at DHL Supply Chain and based in Lucknow.
 
-Here are some ideas to get you started:
+## Skills
+Advanced Excel (XLOOKUP, Pivot Tables, VBA Macros) · Power BI · SQL (learning) · SAP MM · Data Cleaning & Reconciliation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Inventory Accuracy Dashboard (Power BI)
+- Monthly Sales & Dispatch Report (Advanced Excel)
+
+## Contact
+LinkedIn: linkedin.com/in/kuldeep-s-706629357
+Email: kuldeepk1339@gmail.com
